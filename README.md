@@ -7,8 +7,11 @@ Most of the times the rates at which we buy the houses are inappropriate. We get
 
 ### AIMS AND OBJECTIVES
 •	To get the exact housing price based on the features
+
 •	To not get duped by the extravagant prices of the house and thereby ensuring that we know the price beforehand
+
 •	To easily obtain prices of any house based on certain feature with the help of a computer program
+
 •	It can even help the builders to predict the proper rates of the houses on which they are working
  
 
@@ -37,4 +40,5 @@ Following are the system requirements needed to develop the project.
 
 ### USER INTERFACE
 •	Console Application
+
 •	Anaconda distribution of python with JUPYTER NOTEBOOK for better sight and data visualization
